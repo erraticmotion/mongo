@@ -1,0 +1,6 @@
+[submodule "lib/mongo-go-driver"]
+	path = lib/mongo-go-driver
+	url = https://github.com/mongodb/mongo-go-driver
+[submodule "lib/mongo-ruby-driver"]
+	path = lib/mongo-ruby-driver
+	url = https://github.com/mongodb/mongo-ruby-driver
