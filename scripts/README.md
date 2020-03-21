@@ -28,11 +28,13 @@ mongo
 ```
 
 Connect to the `tutorial` Mongo database
+
 ```console
 irb -r ./connect.rb
 exit
 ```
 -or-
+
 ```console
 ruby connect.rb
 ```
